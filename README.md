@@ -1,6 +1,6 @@
 # Amazon Clone Frontend
 
-Welcome to the Amazon Clone Frontend repository! This project is a simplified replica of the Amazon website's frontend, built using React.js. It aims to showcase a responsive and dynamic user interface, closely resembling the Amazon shopping experience.
+Welcome to the Amazon Clone Frontend repository! This project is a simplified replica of the Amazon website's frontend, built using HTML & CSS. It aims to showcase a responsive and dynamic user interface, closely resembling the Amazon shopping experience.
 
 
 ## Features
